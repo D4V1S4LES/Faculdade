@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\D4V1\Documents\faculdade\Linguagem_de_programação\.metadata\.plugins\org.eclipse.jdt.core
+3803894794.index
+3881365261.index
+2495808948.index
+3186380899.index
+1865797976.index
+913196289.index
